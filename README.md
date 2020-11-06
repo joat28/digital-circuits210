@@ -1,2 +1,2 @@
 # digital-circuits210
-All code submissions from Digital-circuits210 (EE210) course.
+All code submissions from Digital circuits, EE210 course.
