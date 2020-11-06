@@ -1,2 +1,2 @@
 # digital-circuits210
-All codes from Digital circuits210 course, including assignments and practice problems.
+All code submissions from Digital-circuits210 (EE210) course.
